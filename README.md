@@ -7,7 +7,7 @@ We are indie game development team based in Moscow, Russia.
 
 ## Tricky Castle
 
-2d puzzle-platformer with unusial challenges for your mind which requires think really out-of-box.
+2d puzzle-platformer with unusial challenges for your mind which require to think really out-of-box.
 
 ![Tricky Castle](/img/tricky-castle.jpg)  ]
 
