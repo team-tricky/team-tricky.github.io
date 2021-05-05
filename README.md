@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Team tricky
 
-You can use the [editor on GitHub](https://github.com/team-tricky/team-tricky.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are indie game development team based in Moscow, Russia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tricky Castle
 
-```markdown
-Syntax highlighted code block
+2d puzzle-platformer with unusial challenges for your mind which requires think really out-of-box.
 
-# Header 1
-## Header 2
-### Header 3
+![Tricky Castle](/img/tricky-castle.jpg)  ]
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+* [ ![Android](/img/android.png)  ](https://play.google.com/store/apps/details?id=com.teamtricky.tc&hl=en_US&gl=US)
+* [ ![iOS](/img/ios.png)  ](https://apps.apple.com/us/app/tricky-castle/id1473736890)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Support and contacts
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-tricky/team-tricky.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please fell free to contact us:
+* [teamtrickyllc@gmail.com](mailto:teamtrickyllc@gmail.com)
+* [vk](https://vk.com/trickycastle)
+* [twitter](https://twitter.com/trickycastle)
