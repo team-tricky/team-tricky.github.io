@@ -16,7 +16,7 @@ We are indie game development team based in Moscow, Russia.
 ----
 
 
-### Support and contacts
+## Support and contacts
 
 Please fell free to contact and follow us:
 
