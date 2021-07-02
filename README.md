@@ -9,9 +9,6 @@
  [ ![Android](/img/android.png)  ](https://play.google.com/store/apps/details?id=com.teamtricky.tc&hl=en_US&gl=US)  
 
 
-## Team tricky
-
-We are indie game development team based in Moscow, Russia.
 
 ----
 
