@@ -10,8 +10,17 @@
 
 
 
-----
+## Achievements
 
+* Google Play Indie Games Festival 2020 [Finalist](https://android-developers.googleblog.com/2020/03/)
+[ ![google-indie-fest](/img/google-indie-fest.gif) ](https://android-developers.googleblog.com/2020/03/)
+
+* GTP Indie Cup W 19 - [Best Unity game](https://indiecup.net/en/participants?archive=winter-2019&winner=1)
+[ ![indie-cup](/img/indie-cup.png) ](https://indiecup.net/en/participants?archive=winter-2019&winner=1)
+
+* 2019 Lion Studios Ultimate Game Changers Contest - [1st place](https://www.applovin.com/blog/ultimate-game-changers-2019/)
+
+----
 
 ## Support and contacts
 
